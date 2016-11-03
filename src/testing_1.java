@@ -8,6 +8,9 @@ import java.util.Scanner;
 
 /**
  * Created by adity on 11/1/2016.
+ *
+ *
+ *  Host Name:  ec2-35-162-40-231.us-west-2.compute.amazonaws.com
  */
 public class testing_1 {
     public static void main(String [] args){
